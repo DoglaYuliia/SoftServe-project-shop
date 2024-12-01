@@ -4,11 +4,13 @@ async function init() {
         const productListModule = await import("./product-list.js");
         const checkoutModule = await import("./checkout.js");
         const countdownModule = await import("./update-date-time.js");
+        const feedbackModule = await import("./feedback-form.js");
 
         if (cartModule?.initCart) cartModule.initCart();
         if (productListModule?.initProductList) productListModule.initProductList();
         if (checkoutModule?.initCheckoutForm) checkoutModule.initCheckoutForm();
         if (countdownModule?.initCountdown) countdownModule.initCountdown();
+        if (feedbackModule?.initFeedbackForm) feedbackModule.initFeedbackForm();
     } catch (error) {
         console.error("Error during initialization:", error);
     }
