@@ -1,0 +1,75 @@
+.footer {
+    color: var(--background-main);
+    padding: 30px 0;
+    margin-top: 50px;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.footer__info, .footer__feedback {
+    flex: 1;
+    min-width: 300px;
+}
+
+.footer__info h4, .footer__feedback h4 {
+    margin: 0 0 15px;
+    font-size: 18px;
+    color: var(--background-main);
+}
+
+.footer__info p, .footer__feedback p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.footer__info a, .footer__feedback a {
+    color: var(--accent-primary);
+    text-decoration: none;
+}
+
+.footer__info a:hover, .footer__feedback a:hover {
+    color: var(--accent-secondary);
+}
+
+.feedback-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px;
+}
+
+.feedback-form input, .feedback-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--border-primary);
+    border-radius: 5px;
+    background: var(--background-main);
+    color: var(--text-primary);
+}
+
+.feedback-form button {
+    padding: 10px 15px;
+    background: var(--accent-primary);
+    color: var(--background-main);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.feedback-form button:hover {
+    background: var(--accent-secondary);
+}
+
+.footer__bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+    color: var(--text-primary);
+}

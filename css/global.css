@@ -1,0 +1,46 @@
+/**,*/
+/**::after,*/
+/**::before {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+
+
+:root {
+    --background-main: #ffffff;
+    --background-secondary: #f9f9f9;
+    --background-overlay: rgba(0, 0, 0, 0.5);
+    --text-primary: #333333;
+    --text-secondary: rgba(0, 0, 0, 0.95);
+    --accent-primary: #e67e22;
+    --accent-secondary: #d35400;
+    --accent-danger: #e66844;
+    --accent-bucket: #FF0000FF;
+    --accent-success: #4caf50;
+    --accent-success-hover: #45a049;
+    --border-primary: #cccccc;
+    --shadow-light: rgba(0, 0, 0, 0.1);/
+    --shadow-medium: rgba(0, 0, 0, 0.2);
+    --button-hover-scale: 1.05;
+}
+
+
+
+body {
+    background-color: rgba(246, 245, 245, 0.62);
+    background-blend-mode: darken;
+    color: var(--text-primary);
+    font-family: 'Open Sans', sans-serif;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+

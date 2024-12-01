@@ -1,0 +1,170 @@
+[
+  {
+    "id":"1",
+    "title":"Torres Floralis Muscatle Oro Dessert Wine",
+    "description":"Torres Floralis Muscatle Oro is a sweet liqueur wine made from the Muscat of Alexandria grape",
+    "image":"image/shop/wine.png",
+    "price":"9.95"
+  },
+  {
+    "id":"2",
+    "title":"Gold Apple Wreath, Dia.50cm",
+    "description":"A beautiful home accessory for autumn or winter, this fern wreath is richly decorated with gold apples",
+    "image":"image/shop/gold-apple-wreath.png",
+    "price":"9.95"
+  },
+  {
+    "id":"3",
+    "title":"Wisdom & Wonder Sculpture Snow Globe",
+    "description":"A female Roman bust, wearing sunglasses in a glitter shower, gives a quirky twist twist to the classics",
+    "image":"image/shop/sculpture-snow-globe.png",
+    "price":"10.99"
+  },
+  {
+    "id":"4",
+    "title":"Big Pastel Ginger Bread House",
+    "description":"This adorable gingerbread house figurine brings a sweet and festive touch to your holiday decor",
+    "image":"image/shop/ginger-bread-house.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"5",
+    "title":"64 LED Presents, Set of 3",
+    "description":"Nestle these presents under your tree among the rest of the Christmas gifts",
+    "image":"image/shop/presents-set.png",
+    "price":"4.95"
+  },
+  {
+    "id":"6",
+    "title":"Christmas Tree Snow Globe Music",
+    "description":"The Christmas Tree Snow Globe is a festive and heartwarming addition to your holiday decor",
+    "image":"image/shop/globe-music-decor.webp",
+    "price":"15.95"
+  },
+  {
+    "id":"7",
+    "title":"Christmas Wreath with Red Baubles",
+    "description":"A Christmas décor staple that represents eternal life and faith, the wreath can be hung on the door",
+    "image":"image/shop/christmas-wreath-with-red-baubles.png",
+    "price":"9.95"
+  },
+  {
+    "id":"8",
+    "title":"gingerbread-house.webp",
+    "description":"Classic LED gingerbread house with a snowman in front of the door. Handmade from clay",
+    "image":"image/shop/gingerbread-house.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"9",
+    "title":"Classic Red Sweater Santa",
+    "description":"Add a classic touch to your Christmas decor with our Classic Red Sweater Santa",
+    "image":"image/shop/red-sweater-santa .webp",
+    "price":"9.95"
+  },
+  {
+    "id":"10",
+    "title":"Handmade Woolen Sheep",
+    "description":"This unique tabletop plush toy features faux woolen sheep with horns and a wooden face.",
+    "image":"image/shop/woolen-sheep.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"11",
+    "title":"Leafy Ceramic Jar",
+    "description":"Elevate your holiday decor with our Medium Leafy Ceramic Jar that comes with a Wooden Lid",
+    "image":"image/shop/leafy-ceramic.png",
+    "price":"9.95"
+  },
+  {
+    "id":"12",
+    "title":"Mercury Glass Tree",
+    "description":"Linear Mercury Glass Tree with LED Lights 27cm Silver",
+    "image":"image/shop/glass-tree.webp",
+    "price":"14.95"
+  },
+  {
+    "id":"13",
+    "title":"Premium Gold Santa",
+    "description":"Shine bright this Christmas with our 28cm Gold Fabric Santa with Tree Bag, straight from our Premium Collection",
+    "image":"image/shop/premium-gold-santa.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"14",
+    "title":"Reindeer Christmas Ornament",
+    "description":"Champagne-colour reindeer Christmas tree ornament. This dazzling hanging ornament is made from plastic and 14 cm in size",
+    "image":"image/shop/reindeer.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"15",
+    "title":"Santa Express - Train Lamp",
+    "description":"This lovingly designed musical Christmas train decoration creates your very own little Christmas world fantasy",
+    "image":"image/shop/santa-express.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"16",
+    "title":"Set of 3 Nutcrackers",
+    "description":"This set of 3 decorative wooden nutcrackers is the perfect way to add festive holiday cheer to your home",
+    "image":"image/shop/nutcrackers.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"17",
+    "title":"Set Decorative Christmas baubles",
+    "description":"Perfect for creating the ambience of the holidays in your home",
+    "image":"image/shop/decorative-christmas-baubles.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"18",
+    "title":"Set of 34 Premium Baubles",
+    "description":"Perfect for creating the ambience of the holidays in your home",
+    "image":"image/shop/premium-baubles.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"19",
+    "title":"Rattan Micro LED Mushrooms",
+    "description":"A trip of mushrooms lit with warm white static micro LEDs",
+    "image":"image/shop/mushrooms.png",
+    "price":"9.95"
+  },
+  {
+    "id":"20",
+    "title":"Set of Mixed Red Decorative Baubles",
+    "description":"Perfect for creating the ambience of the holidays in your home.",
+    "image":"image/shop/red-decorative-baubles.png",
+    "price":"9.95"
+  },
+  {
+    "id":"21",
+    "title":"Sleight With Gifts",
+    "description":"Add a dash of holiday sparkle with our Xmas gift Sleigh",
+    "image":"image/shop/sleight-with-gifts.png",
+    "price":"9.95"
+  },
+  {
+    "id":"22",
+    "title":"Beaded Garland Set of 3",
+    "description":"This decorative garland holds a mix of white and NATURAL WOODEN beads arranged in delicate clusters",
+    "image":"image/shop/wooden-beaded.webp",
+    "price":"9.95"
+  },
+  {
+    "id":"23",
+    "title":"Xmas Glass Mugs",
+    "description":"Stir up some holiday cheer with our Christmas Glass Mug Hanging Ornament",
+    "image":"image/shop/glass-mugs.png",
+    "price":"9.95"
+  },
+  {
+    "id":"24",
+    "title":"Mix with pine cones",
+    "description":"Very decorative pine cone/ star mix with a snow white coating",
+    "image":"image/shop/pine-cones.webp",
+    "price":"9.95"
+  }
+]
