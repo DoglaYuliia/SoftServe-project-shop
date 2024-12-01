@@ -9,18 +9,19 @@
 
 :root {
     --background-main: #ffffff;
-    --background-secondary: #f9f9f9;
+    --background-secondary: rgba(249, 249, 249, 0.96);
     --background-overlay: rgba(0, 0, 0, 0.5);
     --text-primary: #333333;
     --text-secondary: rgba(0, 0, 0, 0.95);
     --accent-primary: #e67e22;
     --accent-secondary: #d35400;
+    --accent-active: rgba(134, 49, 25, 0.68);
     --accent-danger: #e66844;
     --accent-bucket: #FF0000FF;
     --accent-success: #4caf50;
     --accent-success-hover: #45a049;
     --border-primary: #cccccc;
-    --shadow-light: rgba(0, 0, 0, 0.1);/
+    --shadow-light: rgba(217, 143, 143, 0.02);/
     --shadow-medium: rgba(0, 0, 0, 0.2);
     --button-hover-scale: 1.05;
 }
@@ -39,7 +40,7 @@ body {
 
 .container {
     max-width: 1200px;
-    padding: 0 15px;
+    /*padding: 0 15px;*/
     margin: 0 auto;
 }
 
