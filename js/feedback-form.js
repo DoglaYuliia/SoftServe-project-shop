@@ -10,6 +10,7 @@ export function initFeedbackForm() {
             const response = await fetch(form.action, {
                 method: form.method,
                 body: new FormData(form),
+                headers: { Accept: 'application/json' },
             });
 
             alert(response.ok ? 'Thank you for your feedback!' : 'Something went wrong. Please try again.');
@@ -19,4 +20,3 @@ export function initFeedbackForm() {
         }
     });
 }
-

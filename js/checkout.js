@@ -20,7 +20,14 @@ export function initCheckoutForm() {
         if (!isVisible) orderForm.reset();
     };
 
-    checkoutButton.addEventListener('click', () => toggleFormVisibility(true));
+    checkoutButton.addEventListener('click', () => {
+        if (cart.length === 0) {
+            alert('Your cart is empty. Add items before checking out.');
+            return;
+        }
+        toggleFormVisibility(true);
+    });
+
     cancelButton.addEventListener('click', () => toggleFormVisibility(false));
     formOverlay.addEventListener('click', (e) => {
         if (e.target === formOverlay) toggleFormVisibility(false);
@@ -28,6 +35,11 @@ export function initCheckoutForm() {
 
     orderForm.addEventListener('submit', async (e) => {
         e.preventDefault();
+
+        if (cart.length === 0) {
+            alert('Your cart is empty. Add items before submitting an order.');
+            return;
+        }
 
         const formData = new FormData(orderForm);
         const orderDetails = {
